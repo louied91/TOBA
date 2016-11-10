@@ -5,7 +5,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" href="styles/main.css" type="text/css"/>
-<!--<link href="css/bootstrap.min.css" rel="stylesheet">  -->
 
  <c:import url="/includes/header.html" />
         <header role="banner">
