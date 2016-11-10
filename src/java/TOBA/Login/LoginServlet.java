@@ -43,8 +43,8 @@ public class LoginServlet extends HttpServlet {
         // perform action and set URL to appropriate page
         if (username.equals(actualUser.getUserName()) && 
                 password.equals(actualUser.getPassword())) {
-              User user = new User("J", "Smith", "8134120948", "Nowhere St",
-                                    "NoWheresVille", "NoWhereLand", "33333", "jsmith@toba.com");
+              User user = new User("J", "Smith", "8134120948", "Example St",
+                                    "Exampleville", "Example", "33333", "jsmith@toba.com");
             session.setAttribute("user", user);
             
             url = "/account_activity.jsp";  // the account activity page

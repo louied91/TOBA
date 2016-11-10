@@ -74,10 +74,6 @@
         <servlet-name>TransactionServlet</servlet-name>
         <url-pattern>/Transaction</url-pattern>
     </servlet-mapping>
-    <!--<servlet-mapping>
-        <servlet-name>User</servlet-name>
-        <url-pattern>/infrastructure</url-pattern>
-    </servlet-mapping> -->
     <error-page>
         <error-code>404</error-code>
         <location>/Error_404.jsp</location>
