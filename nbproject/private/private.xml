@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/Users/louisderienzo/Desktop/TOBA/web/admin/reports.jsp</file>
+            <file>file:/Users/louisderienzo/Desktop/TOBA/src/java/TOBA/NewCustomer/NewCustomerServlet.java</file>
+            <file>file:/Users/louisderienzo/Desktop/TOBA/src/java/TOBA/Login/LoginServlet.java</file>
+            <file>file:/Users/louisderienzo/Desktop/TOBA/web/admin/admin_login.html</file>
+            <file>file:/Users/louisderienzo/Desktop/TOBA/src/java/TOBA/Reports/ReportsServlet.java</file>
+            <file>file:/Users/louisderienzo/Desktop/TOBA/web/admin/login_error.html</file>
+        </group>
     </open-files>
 </project-private>
